@@ -4,7 +4,7 @@ Trigger page to gear up the spirit of Education Ideas Generator
 
 Demo URL
 --------
-http://hamhamdani.github.com/Kenapa-Sekolah/
+http://hamhamdani.github.com/KenapaSekolah/
 
 ----
 KenapaSekolah © 2014
